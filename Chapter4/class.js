@@ -10,4 +10,3 @@ class Song{
 
     const mySong = new Song();
     mySong.play();
-    fdgdf
