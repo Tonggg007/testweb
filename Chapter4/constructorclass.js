@@ -7,3 +7,6 @@ class Song {
   
   const mySong = new Song ("Bohemian Rhapsody", "Queen");
   console.log (mySong.title);
+
+  const lovesong = new Song("Yesterday", "Beatle");
+  console.log (lovesong.title);
